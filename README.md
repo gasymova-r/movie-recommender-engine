@@ -19,6 +19,6 @@ The program itself is an infinite WHILE loop which we break out of upon getting 
 ### Example
 
 ### Set up
-For the purposes of this project, we worked with the [MovieLens dataset](https://grouplens.org/datasets/movielens/), which was made specifically for testing and learning about movie recommendation algorithms. The website has multiple dataset options to choose from. The version used in this project utilizes the most extensive dataset which includes 25 million ratings of around 62,000 movies applied by 162,000 users across multiple years.
+For the purposes of this project, I worked with the [MovieLens dataset](https://grouplens.org/datasets/movielens/), which was made specifically for testing and learning about movie recommendation algorithms. The website has multiple dataset options to choose from. The version used in this project utilizes the most extensive dataset which includes 25 million ratings of around 62,000 movies applied by 162,000 users across multiple years.
 
 In order to test the code, you need to download the dataset and add it to the project folder.
