@@ -17,7 +17,7 @@ The program itself is an infinite WHILE loop which we break out of upon getting 
 2.	If we would like to get recommendations for someone already present in the dataset (this includes a new user if we already went through step #1), we input the user ID and trigger the function #3 to receive recommendations.
 
 ### Example
-
+![example](image.png)
 ### Set up
 For the purposes of this project, I worked with the [MovieLens dataset](https://grouplens.org/datasets/movielens/), which was made specifically for testing and learning about movie recommendation algorithms. The website has multiple dataset options to choose from. The version used in this project utilizes the most extensive dataset which includes 25 million ratings of around 62,000 movies applied by 162,000 users across multiple years.
 
