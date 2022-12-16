@@ -3,7 +3,7 @@ Program outputting 10 movie recommendations based on previous preferences
 
 
 ### About
-This project explores content-based and collaborative recommendation algorithms on the example of movie recommenders. The final result of this project is an interactive program that allows users to get personalized recommendations using Singular Value Decomposition (SVD). The approach was chosen with cross-validation using a Python library [Surprise](https://surpriselib.com).
+This project explores content-based and collaborative recommendation algorithms on the example of movie recommenders. The final result is an interactive program that allows users to get personalized recommendations using Singular Value Decomposition (SVD). The approach was chosen with cross-validation using a Python library [Surprise](https://surpriselib.com).
 
 ### How it works
 The main upside of the final program is that it allows flexibility – getting recommendations not only for the users already existing in the dataset, but personalized output based on any user’s input. The program works on a sample of 1,000,000 observations from the original dataset and relies on three major functions:
